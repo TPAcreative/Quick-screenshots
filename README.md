@@ -1,7 +1,7 @@
 # Quick-screenshots
 An automator action to generate screenshots at predfined widths for a given URL.
 
-For this you will need to install the excellent [Papparazi app](https://derailer.org/paparazzi/).
+For this you will need to install the excellent [Papparazi app](https://derailer.org/paparazzi/), and then install their automator [actions from here](https://derailer.org/paparazzi/64-Bit%20Paparazzi!%20Automator%20Actions.zip).
 
 Then simpy fire up Automator and import this workflow.
 
